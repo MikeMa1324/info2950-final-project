@@ -12,4 +12,4 @@ This repository is the shared workspace for our INFO 2950 final project.
 
 ## Current Phase
 Phase I: Project Brainstorming
-Phase II
+Phase II: 
